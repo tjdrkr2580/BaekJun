@@ -5,6 +5,9 @@ public class b18108 {
         Scanner sc = new Scanner(System.in);
 
         int date = sc.nextInt();
+
+        sc.close();
+
         System.out.printf("%d", date - 543);
     }
 }

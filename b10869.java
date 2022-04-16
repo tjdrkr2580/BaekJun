@@ -5,6 +5,7 @@ public class b10869 {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         int b = sc.nextInt();
+        sc.close();
         System.out.printf("%d\n", a + b);
         System.out.printf("%d\n", a - b);
         System.out.printf("%d\n", a * b);

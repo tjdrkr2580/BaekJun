@@ -5,6 +5,7 @@ public class b1008 {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         int b = sc.nextInt();
+        sc.close();
         System.out.printf("%.12f", (double) a / b);
     }
 }
