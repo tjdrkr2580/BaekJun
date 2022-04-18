@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class b1920 {
+public class errorb1920 {
     public static void main(String[] args) {
         int count;
         Scanner sc = new Scanner(System.in);
