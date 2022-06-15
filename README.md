@@ -6,5 +6,4 @@
 
 ### study
 
--   [ ] Javascript
 -   [ ] Java 
